@@ -9,6 +9,10 @@ public class Primitives {
         int rollno = 54;
         char letter = 'A';
         float marks = 45.5f;
-        double largeDe
+        double largeDecimalNumbers = 4566547.4564;
+        long largeInteger = 654684321354461L;
+        boolean check = true;
+
+        System.out.println(rollno);
     }
 }
