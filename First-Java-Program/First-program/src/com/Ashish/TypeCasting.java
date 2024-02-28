@@ -17,15 +17,20 @@ public class TypeCasting {
         int integer = (int)(number); // type conversion of float into integer
         System.out.println("your entered integer is: " + integer);
 
-//        byte b = 4;
-//        char c = 'a';
-//        short s = 1024;
-//        int i = 50000;
-//        float f = 7.43f;
-//        double d = 0.34234;
-//        double result = (f * b) + (i / c) - (d * s);
-////        float + int - double = double
-//        System.out.println((f * b) + " " + (i / c) + " " + (d * s));
-//        System.out.println(result);
+        // conversion of char into integer
+        char letter = 'A';
+        int num = (int)(letter);
+        System.out.println( "converted value from char to int is: " + num);
+
+        byte b = 4;
+        char c = 'a';
+        short s = 1024;
+        int i = 50000;
+        float f = 7.43f;
+        double d = 0.34234;
+        double result = (f * b) + (i / c) - (d * s);
+//        float + int - double = double
+        System.out.println((f * b) + " " + (i / c) + " " + (d * s));
+        System.out.println(result);
     }
 }
