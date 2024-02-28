@@ -12,5 +12,8 @@ public class Main {
         System.out.print("What is your name: ");
         Scanner input = new Scanner(System.in);
         System.out.println(input.nextLine());
+
+        String str = "123";
+        System.out.println(str);
     }
 }
