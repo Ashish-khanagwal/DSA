@@ -6,13 +6,13 @@ public class Primitives {
         // Those data types which can't be broken further in individual are known as primitive data type
         // String is not a pdt because 'Ashish' can be broken further into individual characters
 
-        int rollno = 54;
+        int rollNo = 54;
         char letter = 'A';
         float marks = 45.5f;
         double largeDecimalNumbers = 4566547.4564;
         long largeInteger = 654684321354461L;
         boolean check = true;
 
-        System.out.println(rollno);
+        System.out.println(rollNo);
     }
 }
