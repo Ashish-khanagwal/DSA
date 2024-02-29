@@ -2,7 +2,7 @@ package com.Ashish;
 
 import java.util.Scanner;
 
-public class Loops {
+public class ForLoop {
     public static void main(String[] args) {
         System.out.println("Loops");
         Scanner in = new Scanner(System.in);
