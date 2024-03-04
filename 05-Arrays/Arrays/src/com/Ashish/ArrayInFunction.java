@@ -11,7 +11,7 @@ public class ArrayInFunction {
         change(num);
         System.out.println(Arrays.toString(num));
     }
-    static void change(int[] arr){
+     static void change(int[] arr){
         arr[2] = 99;
     }
 }
