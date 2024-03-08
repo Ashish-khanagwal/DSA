@@ -15,7 +15,7 @@ public class Input {
 
         System.out.println("element of array is: " + numbers[3]);
 
-        // Another way of declaring the array is
+        // Another way of declaring the array isf
         int[] num = {4, 5, 6, 7, 8}; // This works as another version of declaring works
         System.out.println("element of array is: " + num[3]);
 
