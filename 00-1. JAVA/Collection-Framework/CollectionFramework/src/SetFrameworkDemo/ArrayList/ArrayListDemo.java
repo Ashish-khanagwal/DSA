@@ -1,4 +1,4 @@
-package SetFrameworkDemo;
+package SetFrameworkDemo.ArrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -55,5 +55,15 @@ public class ArrayListDemo {
         System.out.println("Harsh is added in the list1: " + list1);
         list1.clear();
         System.out.println("List 1 is emptied and it is shown as: " + list1);
+
+        System.out.println("\n");
+        List<Integer> count = List.of(1, 2, 3, 4);
+//        count.add(5);
+//        count.set(2, 5); // Both of these methods of adding or replacing new elements won't work as in this way of crating list, it is designed to be immutable.
+        // Instead, we can do this, see below:
+        List<Integer> num = new ArrayList<>(List.of(1,2,3,4,5));
+        System.out.println(num);
+        num.add(6);
+        System.out.println(num);
     }
 }
