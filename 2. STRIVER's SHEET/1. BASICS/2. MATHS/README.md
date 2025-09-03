@@ -6,6 +6,7 @@
 | 2.          | Reverse a number         |
 | 3.          | GCD of two numbers       |
 | 4.          | Armstrong number         |
+| 5.          | Divisors of a number     |
 
 ### Concepts 👇
 
