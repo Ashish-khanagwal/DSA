@@ -3,7 +3,8 @@ PRPBLEM NO. - 242 -> Valid Anagram
 
 PROBLEM LINK - https://leetcode.com/problems/valid-anagram/
 
-Given two strings s and t, return true if t is an anagram of s, and false otherwise.
+Given two strings s and t, return true if t is an anagram of s, and
+false otherwise.
 
 Example 1:
 
