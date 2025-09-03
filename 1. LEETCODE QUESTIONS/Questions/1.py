@@ -6,8 +6,6 @@ Subtract the Product and Sum of Digits of an Integer
 # n = 234
 # digit = list(str(n))
 # digit = [int(ch) for ch in str(n)]
-
-This is how convert 
 """
 
 
