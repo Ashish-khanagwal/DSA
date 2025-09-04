@@ -3,10 +3,11 @@
 | SNo. | Problem No. |                                                                   Problem                                                                   |       Solution       | Level  |
 | :--- | :---------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :----: |
 | 1.   | 1281        | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Check Here](./1.py) |  Easy  |
-| 2.   | 1           |                                        [Two Sum](https://leetcode.com/problems/two-sum/description/)                                        |         []()         |  Easy  |
-| 3.   | 9           |                                    [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                    |                      |  Easy  |
-| 4.   | 69          |                                               [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                               |                      |  Easy  |
-| 5.   | 58          |                                  [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                  |                      |  Easy  |
-| 6.   | 7           |                                      [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                      |                      | Medium |
-| 7.   | 2520        |                [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                |                      |  Easy  |
-| 8.   | 28          |   [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)   |                      |  Easy  |
+| 2.   | 1           |                                        [Two Sum](https://leetcode.com/problems/two-sum/description/)                                        | [Check Here](./2.py) |  Easy  |
+| 3.   | 9           |                                    [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                    | [Check Here](./3.py) |  Easy  |
+| 4.   | 69          |                                               [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                               | [Check Here](./4.py) |  Easy  |
+| 5.   | 58          |                                  [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                  | [Check Here](./5.py) |  Easy  |
+| 6.   | 7           |                                      [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                      | [Check Here](./6.py) | Medium |
+| 7.   | 2520        |                [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)                | [Check Here](./7.py) |  Easy  |
+| 8.   | 28          |   [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)   | [Check Here](./8.py) |  Easy  |
+| 9.   | 509         |                                     [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                     | [Check Here](./9.py) |  Easy  |
