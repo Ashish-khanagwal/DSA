@@ -13,3 +13,4 @@
 | 9.   | 509         |                                     [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                     | [Check Here](./9.py)  |  Easy  |
 | 10.  | 344         |                                      [Reverse a String](https://leetcode.com/problems/reverse-string/)                                      | [Check Here](./10.py) |  Easy  |
 | 11.  | 977         |                            [Squares of a sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/)                            | [Check Here](./11.py) |  Easy  |
+| 12.  | 2239        |                          [Find closest number to zero](https://leetcode.com/problems/find-closest-number-to-zero/)                          | [Check Here](./12.py) |  Easy  |
