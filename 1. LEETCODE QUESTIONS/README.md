@@ -21,3 +21,4 @@
 | 17.  | 125         |                                     [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | [Check Here](./17.py) | [Check Here](0.%20MD/17.md) |  Easy  |
 | 18.  | 392         |                                       [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                       | [Check Here](./18.py) | [Check Here](0.%20MD/18.md) |  Easy  |
 | 19.  | 3516        |                                  [Find closest person](https://leetcode.com/problems/find-closest-person/)                                  | [Check Here](./19.py) | [Check Here](0.%20MD/19.md) |  Easy  |
+| 20.  | 1768        |                            [Merge String Alternately](https://leetcode.com/problems/merge-strings-alternately/)                             | [Check Here](./20.py) | [Check Here](0.%20MD/20.md) |  Easy  |
