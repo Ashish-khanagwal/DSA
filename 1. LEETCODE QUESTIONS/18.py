@@ -1,13 +1,13 @@
-'''
+"""
 PROBLEM 392 -> Is Subsequence
 
 PROBLEM LINK -> https://leetcode.com/problems/is-subsequence/description/
 
-Given two strings s and t, return true if s is a subsequence of t, 
+Given two strings s and t, return true if s is a subsequence of t,
 or false otherwise.
 
-A subsequence of a string is a new string that is formed from the original string 
-by deleting some (can be none) of the characters without disturbing the relative 
+A subsequence of a string is a new string that is formed from the original string
+by deleting some (can be none) of the characters without disturbing the relative
 positions of the remaining characters.(i.e., "ace" is a subsequence of "abcde" while "aec" is not).
 Example 1:
 
@@ -17,4 +17,24 @@ Example 2:
 
 Input: s = "axc", t = "ahbgdc"
 Output: false
-'''
+"""
+
+
+def isSubsequence(s: str, t: str) -> bool:
+    if not s:  # empty string is always subsequence
+        return True
+    if len(s) > len(t):
+        return False
+
+    left = 0
+    for j in t:
+        if left < len(s) and s[left] == j:
+            left += 1
+    return left == len(s)
+
+
+if __name__ == "__main__":
+    # isSubsequence("abc", "ahbgdc")
+    print(isSubsequence("abc", "ahbgdc"))
+    print(isSubsequence("acb", "ahbgdc"))
+

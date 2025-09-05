@@ -19,3 +19,5 @@
 | 15.  | 242         |                                        [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                        | [Check Here](./15.py) | [Check Here](./15.md) |  Easy  |
 | 16.  | 20          |                                    [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)                                    | [Check Here](./16.py) | [Check Here](./16.md) |  Easy  |
 | 17.  | 125         |                                     [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                     | [Check Here](./17.py) | [Check Here](./17.md) |  Easy  |
+| 18.  | 392         |                                       [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                       | [Check Here](./18.py) | [Check Here](./18.md) |  Easy  |
+| 19.  | 3516        |                                  [Find closest person](https://leetcode.com/problems/find-closest-person/)                                  | [Check Here](./19.py) | [Check Here](./19.md) |  Easy  |
