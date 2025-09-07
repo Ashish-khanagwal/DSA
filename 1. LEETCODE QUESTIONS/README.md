@@ -23,3 +23,4 @@
 | 19.  | 3516        |                                  [Find closest person](https://leetcode.com/problems/find-closest-person/)                                  | [Check Here](./19.py) | [Check Here](0.%20MD/19.md) |  Easy  |
 | 20.  | 1768        |                            [Merge String Alternately](https://leetcode.com/problems/merge-strings-alternately/)                             | [Check Here](./20.py) | [Check Here](0.%20MD/20.md) |  Easy  |
 | 21.  | 121         |                      [Best Time to buy and sell stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                      | [Check Here](./21.py) | [Check Here](0.%20MD/21.md) |  Easy  |
+| 22.  | 1304        |                [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)                | [Check Here](./22.py) | [Check Here](0.%20MD/22.md) |  Easy  |
