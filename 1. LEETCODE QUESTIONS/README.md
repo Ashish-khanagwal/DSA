@@ -28,3 +28,4 @@
 | 24.  | 1317        |  [Convert integers to the sum of two no zero integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)   | [Check Here](./24.py) | [Check Here](0.%20MD/24.md) |  Easy  |
 | 25.  | 1929        |                               [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                               | [Check Here](./25.py) | [Check Here](0.%20MD/25.md) |  Easy  |
 | 26.  | 219         |                                [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                | [Check Here](./26.py) | [Check Here](0.%20MD/26.md) |  Easy  |
+| 27.  | 704         |                                        [Binary Search](https://leetcode.com/problems/binary-search/)                                        | [Check Here](./27.py) | [Check Here](0.%20MD/27.md) |  Easy  |
