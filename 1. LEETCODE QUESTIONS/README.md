@@ -29,3 +29,5 @@
 | 25.  | 1929        |                               [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                               | [Check Here](./25.py) | [Check Here](0.%20MD/25.md) |  Easy  |
 | 26.  | 219         |                                [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)                                | [Check Here](./26.py) | [Check Here](0.%20MD/26.md) |  Easy  |
 | 27.  | 704         |                                        [Binary Search](https://leetcode.com/problems/binary-search/)                                        | [Check Here](./27.py) | [Check Here](0.%20MD/27.md) |  Easy  |
+| 28.  | 35          |                               [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                               | [Check Here](./28.py) | [Check Here](0.%20MD/28.md) |  Easy  |
+| 29.  | 35          |                            [Guess Number Higher or Lower](https://leetcode.com/problems/search-insert-position/)                            | [Check Here](./29.py) | [Check Here](0.%20MD/29.md) |  Easy  |
