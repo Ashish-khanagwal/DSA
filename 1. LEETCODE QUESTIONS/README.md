@@ -32,3 +32,6 @@
 | 28.  | 35          |                               [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                               | [Check Here](./28.py) | [Check Here](0.%20MD/28.md) |  Easy  |
 | 29.  | 374         |                            [Guess Number Higher or Lower](https://leetcode.com/problems/search-insert-position/)                            | [Check Here](./29.py) | [Check Here](0.%20MD/29.md) |  Easy  |
 | 30.  | 912         |                                        [Sort an array](https://leetcode.com/problems/sort-an-array/)                                        | [Check Here](./30.py) | [Check Here](0.%20MD/30.md) |  Easy  |
+| 31.  | 345         |                           [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                           | [Check Here](./31.py) | [Check Here](0.%20MD/31.md) |  Easy  |
+| 32.  | 2785        |                              [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                              | [Check Here](./32.py) | [Check Here](0.%20MD/32.md) |  Easy  |
+| 33.  | 2785        |       [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)       | [Check Here](./33.py) | [Check Here](0.%20MD/33.md) |  Easy  |
