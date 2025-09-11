@@ -35,3 +35,4 @@
 | 31.  | 345         |                           [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                           | [Check Here](./31.py) | [Check Here](0.%20MD/31.md) |  Easy  |
 | 32.  | 2785        |                              [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                              | [Check Here](./32.py) | [Check Here](0.%20MD/32.md) |  Easy  |
 | 33.  | 3           |       [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)       | [Check Here](./33.py) | [Check Here](0.%20MD/33.md) |  Easy  |
+| 34.  | 680         |                                  [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)                                  | [Check Here](./34.py) | [Check Here](0.%20MD/34.md) |  Easy  |
