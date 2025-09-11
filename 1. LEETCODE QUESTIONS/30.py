@@ -63,7 +63,63 @@ def sortArray(nums: list[int]) -> list[int]:
 
 print(sortArray([5,1,1,2,0,0]))
 print(sortArray([5,2,3,1]))
+'''
 
+'''
 But not an ideal solution for the problem as the space complexity is not smallest, hence
-the HEAP SORT will be ideal here with space complextiy - O(1).
+the HEAP SORT will be ideal here with 
+space complextiy - O(1)
+time complexity - O(n log n)
+'''
+
+def heapify(arr, n, i):
+  largest = i
+  left = 2*i+1
+  right = 2*i+2
+
+  if left < n and arr[left] > arr[largest]:
+    largest = left
+  if right < n and arr[right] > arr[largest]:
+    largest = right
+  if largest != i:
+    arr[i], arr[largest] = arr[largest], arr[i]
+    heapify(arr, n , largest)
+
+def heapSort(arr):
+  n = len(arr)
+
+  # Building max heap
+  for i in range(n//2-1, -1, -1):
+    heapify(arr, n, i)
+
+  # Building sored array by extracting element one by one
+  for i in range(n-1, 1, -1):
+    arr[0], arr[i] = arr[i], arr[0]
+    heapify(arr, i, 0)
+
+  return arr
+
+print(heapSort([5,1,1,2,0,0]))
+print(heapSort([5,2,3,1]))
+print(heapSort([-4,0,7,4,9,-5,-1,0,-7,-1]))
+
+
+'''
+import heapq
+HEAP SORT
+Time Complexity - O(n log n )
+Space Complexity - O(n)
+
+def heapSort(arr):
+  heapq.heapify(arr)
+  n = len(arr)
+  new_list = [0] * n
+
+  for i in range(n):
+    minn = heapq.heappop(arr)
+    new_list[i] = minn
+
+  return new_list
+
+print(heapSort([1, 3, 5, 7, 9, 2, 4, 6, 8, 0]))
 '''
