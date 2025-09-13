@@ -40,3 +40,4 @@
 | 36.  | 189         |                                         [Rotate array](https://leetcode.com/problems/rotate-array/)                                         | [Check Here](./36.py) | [Check Here](0.%20MD/36.md) |  Easy  |
 | 37.  | 88          |                                   [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [Check Here](./37.py) | [Check Here](0.%20MD/37.md) |  Easy  |
 | 38.  | 26          |                  [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                  | [Check Here](./38.py) | [Check Here](0.%20MD/38.md) |  Easy  |
+| 39.  | 229         |                                  [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                  | [Check Here](./39.py) | [Check Here](0.%20MD/39.md) |  Easy  |
