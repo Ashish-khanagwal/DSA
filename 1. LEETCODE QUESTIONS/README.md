@@ -42,3 +42,4 @@
 | 38.  | 26          |                  [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                  | [Check Here](./38.py) | [Check Here](0.%20MD/38.md) |  Easy  |
 | 39.  | 229         |                                  [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                  | [Check Here](./39.py) | [Check Here](0.%20MD/39.md) | Medium |
 | 40.  | 75          |                                          [Sort Colors](https://leetcode.com/problems/sort-colors/)                                          | [Check Here](./40.py) | [Check Here](0.%20MD/40.md) | Medium |
+| 41.  | 2351        |                         [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)                         | [Check Here](./41.py) | [Check Here](0.%20MD/41.md) | Medium |
