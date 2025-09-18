@@ -44,3 +44,4 @@
 | 40.  | 75          |                                          [Sort Colors](https://leetcode.com/problems/sort-colors/)                                          | [Check Here](./40.py) | [Check Here](0.%20MD/40.md) | Medium |
 | 41.  | 2351        |                         [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)                         | [Check Here](./41.py) | [Check Here](0.%20MD/41.md) |  Easy  |
 | 42.  | 206         |                                  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                  | [Check Here](./42.py) | [Check Here](0.%20MD/42.md) |  Easy  |
+| 43.  | 27          |                                       [Remove Element](https://leetcode.com/problems/remove-element/)                                       | [Check Here](./43.py) | [Check Here](0.%20MD/43.md) |  Easy  |
