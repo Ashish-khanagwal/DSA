@@ -46,3 +46,4 @@
 | 42.  | 206         |                                  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                  | [Check Here](./42.py) | [Check Here](0.%20MD/42.md) |  Easy  |
 | 43.  | 27          |                                       [Remove Element](https://leetcode.com/problems/remove-element/)                                       | [Check Here](./43.py) | [Check Here](0.%20MD/43.md) |  Easy  |
 | 44.  | 706         |                                       [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                       | [Check Here](./44.py) | [Check Here](0.%20MD/44.md) |  Easy  |
+| 45.  | 705         |                                       [Design HashSet](https://leetcode.com/problems/design-hashset/)                                       | [Check Here](./45.py) | [Check Here](0.%20MD/45.md) |  Easy  |
