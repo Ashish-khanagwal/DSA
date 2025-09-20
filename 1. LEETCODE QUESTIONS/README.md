@@ -47,3 +47,4 @@
 | 43.  | 27          |                                       [Remove Element](https://leetcode.com/problems/remove-element/)                                       | [Check Here](./43.py) | [Check Here](0.%20MD/43.md) |  Easy  |
 | 44.  | 706         |                                       [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                       | [Check Here](./44.py) | [Check Here](0.%20MD/44.md) |  Easy  |
 | 45.  | 705         |                                       [Design HashSet](https://leetcode.com/problems/design-hashset/)                                       | [Check Here](./45.py) | [Check Here](0.%20MD/45.md) |  Easy  |
+| 46.  | 367         |                                 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                 | [Check Here](./46.py) | [Check Here](0.%20MD/46.md) |  Easy  |
