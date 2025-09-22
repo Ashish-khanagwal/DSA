@@ -28,5 +28,6 @@ def moveZeroes(nums: list[int]):
     nums[i] = 0
   return nums
 
+print(moveZeroes([0, 0, 3, 4, 0, 7, 8, 0]))
 print(moveZeroes([0,1,0,3,12]))
 print(moveZeroes([0]))

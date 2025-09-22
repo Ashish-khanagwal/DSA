@@ -49,3 +49,4 @@
 | 45.  | 705         |                                       [Design HashSet](https://leetcode.com/problems/design-hashset/)                                       | [Check Here](./45.py) | [Check Here](0.%20MD/45.md) |  Easy  |
 | 46.  | 367         |                                 [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                 | [Check Here](./46.py) | [Check Here](0.%20MD/46.md) |  Easy  |
 | 47.  | 283         |                                          [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                          | [Check Here](./47.py) | [Check Here](0.%20MD/47.md) |  Easy  |
+| 48.  | 136         |                                        [Single Number](https://leetcode.com/problems/single-number/)                                        | [Check Here](./48.py) | [Check Here](0.%20MD/48.md) |  Easy  |
