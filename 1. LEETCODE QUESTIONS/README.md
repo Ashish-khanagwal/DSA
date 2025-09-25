@@ -53,3 +53,4 @@
 | 49.  | 485         |                                    [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                    | [Check Here](./49.py) | [Check Here](0.%20MD/49.md)  |  Easy  |
 | 50.  | 34          | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Check Here](./50.py) | [Check Here](0.%20MD/50.md)  |  Easy  |
 | 51.  | 540         |                        [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                        | [Check Here](./51.py) | [Check Here](0.%20MD/51 .md) | Medium |
+| 52.  | 771         |                                       [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                       | [Check Here](./52.py) | [Check Here](0.%20MD/52 .md) | Medium |

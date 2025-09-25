@@ -24,7 +24,15 @@ Explanation: The largest element of the array is 10 and the second largest eleme
 '''
 
 def getSecondLargest(nums):
-  
+  largest = second_largest = float('-inf')
+  for i in range(len(nums)):
+    if nums[i] > largest:
+      second_largest = largest
+      largest = nums[i]
+    elif nums[i] > second_largest and nums[i] != largest:
+      second_largest = nums[i]
+
+  return second_largest if second_largest != float('-inf') else -1
 
 print(getSecondLargest([12, 35, 1, 10, 34, 1]))
 print(getSecondLargest([10, 5, 10]))
