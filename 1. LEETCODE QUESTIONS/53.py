@@ -22,7 +22,6 @@ Output: true
 '''
 
 def canConstruct(ransomeNote: str, magazine: str) -> bool:
-  l, r = 0, len(ransomeNote)
 
 print(canConstruct("a", "b"))
 print(canConstruct("aa", "ab"))
