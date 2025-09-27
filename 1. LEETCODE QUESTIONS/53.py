@@ -21,8 +21,19 @@ Input: ransomNote = "aa", magazine = "aab"
 Output: true
 '''
 
-def canConstruct(ransomeNote: str, magazine: str) -> bool:
+def canConstruct(ransomeNote: str, magazine: str):
+  hashmap = {}
+  
+  for ch in magazine:
+    hashmap[ch] = hashmap.get(ch, 0) + 1
+  
+  for ch in ransomeNote:
+    if ch not in hashmap or hashmap[ch] == 0:
+      return False
+    hashmap[ch] -= 1
+  return True
 
 print(canConstruct("a", "b"))
 print(canConstruct("aa", "ab"))
 print(canConstruct("aa", "aab"))
+print(canConstruct("aab", "baa"))

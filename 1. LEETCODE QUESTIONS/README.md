@@ -55,3 +55,4 @@
 | 51.  | 540         |                        [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                        | [Check Here](./51.py) | [Check Here](0.%20MD/51.md) | Medium |
 | 52.  | 771         |                                       [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                                       | [Check Here](./52.py) | [Check Here](0.%20MD/52.md) |  Easy  |
 | 53.  | 383         |                                            [Ransome Note](https://leetcode.com/problems/ransom-note/)                                             | [Check Here](./53.py) | [Check Here](0.%20MD/53.md) |  Easy  |
+| 54.  | 611         |                                   [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)                                   | [Check Here](./54.py) | [Check Here](0.%20MD/54.md) | MEDIUM |
