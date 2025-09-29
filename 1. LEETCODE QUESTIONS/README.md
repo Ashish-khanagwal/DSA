@@ -57,3 +57,4 @@
 | 53.  | 383         |                                            [Ransome Note](https://leetcode.com/problems/ransom-note/)                                             | [Check Here](./53.py) | [Check Here](0.%20MD/53.md) |  Easy  |
 | 54.  | 611         |                                   [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)                                   | [Check Here](./54.py) | [Check Here](0.%20MD/54.md) | MEDIUM |
 | 55.  | 1189        |                              [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)                              | [Check Here](./55.py) | [Check Here](0.%20MD/55.md) |  EASY  |
+| 56.  | 278         |                                       [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                       | [Check Here](./56.py) | [Check Here](0.%20MD/56.md) |  EASY  |
