@@ -59,3 +59,4 @@
 | 55.  | 1189        |                              [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)                              | [Check Here](./55.py) | [Check Here](0.%20MD/55.md) |  EASY  |
 | 56.  | 278         |                                       [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                       | [Check Here](./56.py) | [Check Here](0.%20MD/56.md) |  EASY  |
 | 57.  | 74          |                                      [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                      | [Check Here](./57.py) | [Check Here](0.%20MD/57.md) | MEDIUM |
+| 58.  | 1518        |                                           [Water Bottles](https://leetcode.com/problems/water-bottles/)                                           | [Check Here](./58.py) | [Check Here](0.%20MD/58.md) |  EASY  |
