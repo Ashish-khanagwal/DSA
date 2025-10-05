@@ -63,3 +63,4 @@
 | 59.  | 153         |                    [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                    | [Check Here](./59.py) | [Check Here](0.%20MD/59.md) | MEDIUM |
 | 60.  | 228         |                                          [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                          | [Check Here](./60.py) | [Check Here](0.%20MD/60.md) |  EASY  |
 | 61.  | 238         |                            [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                            | [Check Here](./61.py) | [Check Here](0.%20MD/61.md) | MEDIUM |
+| 62.  | 643         |                              [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                              | [Check Here](./62.py) | [Check Here](0.%20MD/62.md) |  EASY  |
