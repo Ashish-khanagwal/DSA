@@ -64,3 +64,4 @@
 | 60.  | 228         |                                          [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                          | [Check Here](./60.py) | [Check Here](0.%20MD/60.md) |  EASY  |
 | 61.  | 238         |                            [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                            | [Check Here](./61.py) | [Check Here](0.%20MD/61.md) | MEDIUM |
 | 62.  | 643         |                              [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                              | [Check Here](./62.py) | [Check Here](0.%20MD/62.md) |  EASY  |
+| 63.  | 209         |                               [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                               | [Check Here](./63.py) | [Check Here](0.%20MD/63.md) | MEDIUM |
