@@ -65,3 +65,5 @@
 | 61.  | 238         |                            [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                            | [Check Here](./61.py) | [Check Here](0.%20MD/61.md) | MEDIUM |
 | 62.  | 643         |                              [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)                              | [Check Here](./62.py) | [Check Here](0.%20MD/62.md) |  EASY  |
 | 63.  | 209         |                               [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)                               | [Check Here](./63.py) | [Check Here](0.%20MD/63.md) | MEDIUM |
+| 64.  | 1004        |                                [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                | [Check Here](./64.py) | [Check Here](0.%20MD/64.md) | MEDIUM |
+| 65.  | 424         |                 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                 | [Check Here](./65.py) | [Check Here](0.%20MD/65.md) | MEDIUM |
