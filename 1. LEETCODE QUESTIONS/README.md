@@ -68,3 +68,4 @@
 | 64.  | 1004        |                                [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)                                | [Check Here](./64.py) | [Check Here](0.%20MD/64.md) | MEDIUM |
 | 65.  | 424         |                 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                 | [Check Here](./65.py) | [Check Here](0.%20MD/65.md) | MEDIUM |
 | 66.  | 2300        |                  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)                   | [Check Here](./66.py) | [Check Here](0.%20MD/66.md) | MEDIUM |
+| 67.  | 567         |                                   [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                   | [Check Here](./67.py) | [Check Here](0.%20MD/67.md) | MEDIUM |
