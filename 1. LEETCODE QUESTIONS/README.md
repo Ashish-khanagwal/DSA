@@ -69,3 +69,4 @@
 | 65.  | 424         |                 [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)                 | [Check Here](./65.py) | [Check Here](0.%20MD/65.md) | MEDIUM |
 | 66.  | 2300        |                  [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions)                   | [Check Here](./66.py) | [Check Here](0.%20MD/66.md) | MEDIUM |
 | 67.  | 567         |                                   [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                   | [Check Here](./67.py) | [Check Here](0.%20MD/67.md) | MEDIUM |
+| 68.  | 41          |                                  [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                  | [Check Here](./68.py) | [Check Here](0.%20MD/68.md) |  HARD  |
