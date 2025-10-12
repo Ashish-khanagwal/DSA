@@ -71,3 +71,4 @@
 | 67.  | 567         |                                   [Permutation in String](https://leetcode.com/problems/permutation-in-string/)                                   | [Check Here](./67.py) | [Check Here](0.%20MD/67.md) | MEDIUM |
 | 68.  | 41          |                                  [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                  | [Check Here](./68.py) | [Check Here](0.%20MD/68.md) |  HARD  |
 | 69.  | 3024        |                                        [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)                                        | [Check Here](./69.py) | [Check Here](0.%20MD/69.md) |  EASY  |
+| 70.  | 15          |                                                   [3 Sum](https://leetcode.com/problems/3sum/)                                                    | [Check Here](./70.py) | [Check Here](0.%20MD/70.md) | MEDIUM |
