@@ -74,3 +74,4 @@
 | 70.  | 15          |                                                   [3 Sum](https://leetcode.com/problems/3sum/)                                                    | [Check Here](./70.py) | [Check Here](0.%20MD/70.md) | MEDIUM |
 | 71.  | 2273        |            [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/)            | [Check Here](./71.py) | [Check Here](0.%20MD/71.md) |  EASY  |
 | 72.  | 49          |                                          [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                          | [Check Here](./72.py) | [Check Here](0.%20MD/72.md) | MEDIUM |
+| 73.  | 18          |                                                    [4Sum](https://leetcode.com/problems/4sum/)                                                    | [Check Here](./73.py) | [Check Here](0.%20MD/73.md) | MEDIUM |
