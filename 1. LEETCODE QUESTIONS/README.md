@@ -77,3 +77,4 @@
 | 73.  | 18          |                                                    [4Sum](https://leetcode.com/problems/4sum/)                                                    | [Check Here](./73.py) | [Check Here](0.%20MD/73.md) | MEDIUM |
 | 74.  | 66          |                                                [Plus one](https://leetcode.com/problems/plus-one/)                                                | [Check Here](./74.py) | [Check Here](0.%20MD/74.md) |  EASY  |
 | 75.  | 347         |                                 [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)                                 | [Check Here](./75.py) | [Check Here](0.%20MD/75.md) | MEDIUM |
+| 76.  | 3397        |    [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/)    | [Check Here](./76.py) | [Check Here](0.%20MD/76.md) | MEDIUM |
