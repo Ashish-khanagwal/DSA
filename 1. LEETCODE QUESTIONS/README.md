@@ -78,3 +78,5 @@
 | 74.  | 66          |                                                [Plus one](https://leetcode.com/problems/plus-one/)                                                | [Check Here](./74.py) | [Check Here](0.%20MD/74.md) |  EASY  |
 | 75.  | 347         |                                 [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)                                 | [Check Here](./75.py) | [Check Here](0.%20MD/75.md) | MEDIUM |
 | 76.  | 3397        |    [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/)    | [Check Here](./76.py) | [Check Here](0.%20MD/76.md) | MEDIUM |
+| 77.  | 33          |                          [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          | [Check Here](./77.py) | [Check Here](0.%20MD/77.md) | MEDIUM |
+| 78.  | 81          |                       [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                       | [Check Here](./78.py) | [Check Here](0.%20MD/78.md) | MEDIUM |
