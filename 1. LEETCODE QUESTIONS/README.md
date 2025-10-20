@@ -80,3 +80,4 @@
 | 76.  | 3397        |    [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/)    | [Check Here](./76.py) | [Check Here](0.%20MD/76.md) | MEDIUM |
 | 77.  | 33          |                          [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                          | [Check Here](./77.py) | [Check Here](0.%20MD/77.md) | MEDIUM |
 | 78.  | 81          |                       [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                       | [Check Here](./78.py) | [Check Here](0.%20MD/78.md) | MEDIUM |
+| 79.  | 2011        |     [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)     | [Check Here](./79.py) | [Check Here](0.%20MD/79.md) |  EASY  |
