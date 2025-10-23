@@ -83,3 +83,4 @@
 | 79.  | 2011        |     [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)     | [Check Here](./79.py) | [Check Here](0.%20MD/79.md) |  EASY  |
 | 80.  | 658         |                                 [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)                                 | [Check Here](./80.py) | [Check Here](0.%20MD/80.md) |  EASY  |
 | 81.  | 3019        |                                 [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)                                 | [Check Here](./81.py) | [Check Here](0.%20MD/81.md) |  EASY  |
+| 82.  | 1207        |                            [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                            | [Check Here](./82.py) | [Check Here](0.%20MD/82.md) |  EASY  |
