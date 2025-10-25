@@ -1,5 +1,5 @@
 '''
-989. Add to Array-Form of Integer
+PROBLEM 989 -> Add to Array-Form of Integer
 
 PROBLEM LINK -> https://leetcode.com/problems/add-to-array-form-of-integer/
 
@@ -34,15 +34,18 @@ num does not contain any leading zeros except for the zero itself.
 from typing import List
 
 def addToArrayForm(num: List[int], k: int) -> List[int]:
-    res = []
-    i = len(num) - 1
-    carry = 0
+  res = []
+  i = len(num) - 1
 
-    while i >= 0 or k > 0:
-        if i >= 0:
-            k += num[i]
-        res.append(k % 10)
-        k //= 10
-        i -= 1
+  while i >= 0 or k > 0:
+    if i >= 0:
+      k += num[i]
+    res.append(k % 10)
+    k //= 10
+    i -= 1
 
-    return res[::-1]
+  return res[::-1]
+
+print(addToArrayForm([1,2,0,0], 34))
+print(addToArrayForm([2,7,4], 181))
+print(addToArrayForm([2,1,5], 806))

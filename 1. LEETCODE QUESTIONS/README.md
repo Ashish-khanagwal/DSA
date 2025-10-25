@@ -85,3 +85,4 @@
 | 81.  | 3019        |                                 [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)                                 | [Check Here](./81.py) | [Check Here](0.%20MD/81.md) |  EASY  |
 | 82.  | 1207        |                            [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                            | [Check Here](./82.py) | [Check Here](0.%20MD/82.md) |  EASY  |
 | 83.  | 989         |                            [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                            | [Check Here](./83.py) | [Check Here](0.%20MD/83.md) |  EASY  |
+| 84.  | 1716        |                        [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                        | [Check Here](./84.py) | [Check Here](0.%20MD/84.md) |  EASY  |
