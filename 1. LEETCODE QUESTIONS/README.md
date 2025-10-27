@@ -87,3 +87,4 @@
 | 83.  | 989         |                            [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)                            | [Check Here](./83.py) | [Check Here](0.%20MD/83.md) |  EASY  |
 | 84.  | 1716        |                        [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                        | [Check Here](./84.py) | [Check Here](0.%20MD/84.md) |  EASY  |
 | 85.  | 560         |                                   [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                   | [Check Here](./85.py) | [Check Here](0.%20MD/85.md) | MEDIUM |
+| 86.  | 2210        |                     [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)                     | [Check Here](./86.py) | [Check Here](0.%20MD/86.md) |  EASY  |
