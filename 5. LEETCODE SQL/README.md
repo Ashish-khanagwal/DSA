@@ -9,3 +9,4 @@
 | 5.   | 183         |                 [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                  | [Check Here](./5.sql) | [Check Here](0.%20MD/5.md) |  Easy  |
 | 6.   | 184         |                 [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)                  | [Check Here](./6.sql) | [Check Here](0.%20MD/6.md) | MEDIUM |
 | 7.   | 196         |                   [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                    | [Check Here](./7.sql) | [Check Here](0.%20MD/7.md) |  EASY  |
+| 8.   | 197         |                        [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                         | [Check Here](./8.sql) | [Check Here](0.%20MD/8.md) |  EASY  |
