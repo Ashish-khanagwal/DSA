@@ -50,7 +50,7 @@ Explanation: john@example.com is repeated two times. We keep the row with the sm
 Id = 1.
 */
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 DELETE e1
 FROM Person e1
 JOIN Person e2
