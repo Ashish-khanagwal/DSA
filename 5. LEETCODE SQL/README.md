@@ -14,3 +14,4 @@
 | 10.  | 178         |                               [Rank Scores](https://leetcode.com/problems/rank-scores/)                                | [Check Here](./10.sql) | [Check Here](0.%20MD/10.md) | MEDIUM |
 | 11.  | ID 10308    |        [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=3)        | [Check Here](./11.sql) | [Check Here](0.%20MD/11.md) |  EASY  |
 | 12.  | 180         |                       [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)                        | [Check Here](./12.sql) | [Check Here](0.%20MD/12.md) | MEDIUM |
+| 13.  | 177         |                        [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)                         | [Check Here](./13.sql) | [Check Here](0.%20MD/13.md) | MEDIUM |
