@@ -18,3 +18,4 @@
 | 14.  | 511         |                      [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                       | [Check Here](./14.sql) | [Check Here](0.%20MD/14.md) |  EASY  |
 | 15.  | 595         |                             [Big Countries](https://leetcode.com/problems/big-countries/)                              | [Check Here](./15.sql) | [Check Here](0.%20MD/15.md) |  EASY  |
 | 16.  | 570         |   [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)    | [Check Here](./16.sql) | [Check Here](0.%20MD/16.md) |  EASY  |
+| 17.  | 550         |                     [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)                      | [Check Here](./17.sql) | [Check Here](0.%20MD/17.md) |  EASY  |
