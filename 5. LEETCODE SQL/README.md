@@ -22,3 +22,4 @@
 | 18.  | 584         |                         [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                         | [Check Here](./18.sql) | [Check Here](0.%20MD/18.md) |  EASY  |
 | 19.  | 585         |                           [Investments in 2016](https://leetcode.com/problems/investments-in-2016/)                           | [Check Here](./19.sql) | [Check Here](0.%20MD/19.md) | MEDIUM |
 | 20.  | 586         | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Check Here](./20.sql) | [Check Here](0.%20MD/20.md) |  EASY  |
+| 21.  | 596         |              [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)              | [Check Here](./21.sql) | [Check Here](0.%20MD/21.md) |  EASY  |
