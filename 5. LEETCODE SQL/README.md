@@ -23,6 +23,7 @@
 | 19.  | 585         |                           [Investments in 2016](https://leetcode.com/problems/investments-in-2016/)                           | [Check Here](./19.sql) | [Check Here](0.%20MD/19.md) | MEDIUM |
 | 20.  | 586         | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Check Here](./20.sql) | [Check Here](0.%20MD/20.md) |  EASY  |
 | 21.  | 596         |              [Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/)              | [Check Here](./21.sql) | [Check Here](0.%20MD/21.md) |  EASY  |
-| 22.  | 602         |  [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)   | [Check Here](./22.sql) | [Check Here](0.%20MD/22.md) |  MEDIUM  |
+| 22.  | 602         |  [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)   | [Check Here](./22.sql) | [Check Here](0.%20MD/22.md) | MEDIUM |
 | 23.  | 607         |                                  [Sales Person](https://leetcode.com/problems/sales-person/)                                  | [Check Here](./23.sql) | [Check Here](0.%20MD/23.md) |  EASY  |
-| 24.  | 608         |                                  [Tree Node](https://leetcode.com/problems/tree-node/)                                  | [Check Here](./24.sql) | [Check Here](0.%20MD/24.md) |  MEDIUM  |
+| 24.  | 608         |                                     [Tree Node](https://leetcode.com/problems/tree-node/)                                     | [Check Here](./24.sql) | [Check Here](0.%20MD/24.md) | MEDIUM |
+| 25.  | 610         |                            [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                            | [Check Here](./25.sql) | [Check Here](0.%20MD/25.md) |  EASY  |
