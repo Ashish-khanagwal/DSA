@@ -27,3 +27,4 @@
 | 23.  | 607         |                                  [Sales Person](https://leetcode.com/problems/sales-person/)                                  | [Check Here](./23.sql) | [Check Here](0.%20MD/23.md) |  EASY  |
 | 24.  | 608         |                                     [Tree Node](https://leetcode.com/problems/tree-node/)                                     | [Check Here](./24.sql) | [Check Here](0.%20MD/24.md) | MEDIUM |
 | 25.  | 610         |                            [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                            | [Check Here](./25.sql) | [Check Here](0.%20MD/25.md) |  EASY  |
+| 26.  | 619         |                         [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)                         | [Check Here](./26.sql) | [Check Here](0.%20MD/26.md) |  EASY  |
