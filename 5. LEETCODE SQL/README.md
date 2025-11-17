@@ -29,3 +29,4 @@
 | 25.  | 610         |                            [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                            | [Check Here](./25.sql) | [Check Here](0.%20MD/25.md) |  EASY  |
 | 26.  | 619         |                         [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)                         | [Check Here](./26.sql) | [Check Here](0.%20MD/26.md) |  EASY  |
 | 27.  | 620         |                             [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                             | [Check Here](./27.sql) | [Check Here](0.%20MD/27.md) |  EASY  |
+| 28.  | 626         |                                [Exchange Seats](https://leetcode.com/problems/exchange-seats/)                                | [Check Here](./28.sql) | [Check Here](0.%20MD/28.md) |  EASY  |
