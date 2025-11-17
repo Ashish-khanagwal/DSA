@@ -28,3 +28,4 @@
 | 24.  | 608         |                                     [Tree Node](https://leetcode.com/problems/tree-node/)                                     | [Check Here](./24.sql) | [Check Here](0.%20MD/24.md) | MEDIUM |
 | 25.  | 610         |                            [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                            | [Check Here](./25.sql) | [Check Here](0.%20MD/25.md) |  EASY  |
 | 26.  | 619         |                         [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)                         | [Check Here](./26.sql) | [Check Here](0.%20MD/26.md) |  EASY  |
+| 27.  | 620         |                             [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                             | [Check Here](./27.sql) | [Check Here](0.%20MD/27.md) |  EASY  |
