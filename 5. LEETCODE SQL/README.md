@@ -33,3 +33,4 @@
 | 29.  | 627         |                                    [Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/)                                    | [Check Here](./29.sql) | [Check Here](0.%20MD/29.md) |  EASY  |
 | 30.  | 1045        |                        [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/)                        | [Check Here](./30.sql) | [Check Here](0.%20MD/30.md) | MEIDUM |
 | 31.  | 1050        | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [Check Here](./31.sql) | [Check Here](0.%20MD/31.md) |  EASY  |
+| 32.  | 1068        |                                 [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)                                 | [Check Here](./32.sql) | [Check Here](0.%20MD/32.md) |  EASY  |
