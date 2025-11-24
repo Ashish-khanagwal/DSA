@@ -37,3 +37,4 @@
 | 33.  | 1075        |                                      [Project Employees I](https://leetcode.com/problems/project-employees-i/)                                      | [Check Here](./33.sql) | [Check Here](0.%20MD/33.md) |  EASY  |
 | 34.  | 1070        |                               [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/)                               | [Check Here](./34.sql) | [Check Here](0.%20MD/34.md) | MEDIUM |
 | 35.  | 1084        |                                       [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                       | [Check Here](./35.sql) | [Check Here](0.%20MD/35.md) | MEDIUM |
+| 36.  | 1141        |                              [User Activity for the Past 30 Days I](https://leetcode.com/problems/sales-analysis-iii/)                              | [Check Here](./36.sql) | [Check Here](0.%20MD/36.md) |  EASY  |
