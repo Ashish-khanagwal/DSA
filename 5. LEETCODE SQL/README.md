@@ -39,3 +39,4 @@
 | 35.  | 1084        |                                       [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                       | [Check Here](./35.sql) | [Check Here](0.%20MD/35.md) | MEDIUM |
 | 36.  | 1141        |                              [User Activity for the Past 30 Days I](https://leetcode.com/problems/sales-analysis-iii/)                              | [Check Here](./36.sql) | [Check Here](0.%20MD/36.md) |  EASY  |
 | 37.  | 1148        |                                          [Article Views I](https://leetcode.com/problems/article-views-i/)                                          | [Check Here](./37.sql) | [Check Here](0.%20MD/37.md) |  EASY  |
+| 38.  | 1327        |                    [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)                    | [Check Here](./38.sql) | [Check Here](0.%20MD/38.md) |  EASY  |
