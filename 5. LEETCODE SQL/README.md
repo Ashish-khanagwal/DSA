@@ -40,3 +40,4 @@
 | 36.  | 1141        |                              [User Activity for the Past 30 Days I](https://leetcode.com/problems/sales-analysis-iii/)                              | [Check Here](./36.sql) | [Check Here](0.%20MD/36.md) |  EASY  |
 | 37.  | 1148        |                                          [Article Views I](https://leetcode.com/problems/article-views-i/)                                          | [Check Here](./37.sql) | [Check Here](0.%20MD/37.md) |  EASY  |
 | 38.  | 1327        |                    [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)                    | [Check Here](./38.sql) | [Check Here](0.%20MD/38.md) |  EASY  |
+| 39.  | 1378        |           [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)           | [Check Here](./39.sql) | [Check Here](0.%20MD/39.md) |  EASY  |
