@@ -41,3 +41,4 @@
 | 37.  | 1148        |                                          [Article Views I](https://leetcode.com/problems/article-views-i/)                                          | [Check Here](./37.sql) | [Check Here](0.%20MD/37.md) |  EASY  |
 | 38.  | 1327        |                    [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)                    | [Check Here](./38.sql) | [Check Here](0.%20MD/38.md) |  EASY  |
 | 39.  | 1378        |           [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)           | [Check Here](./39.sql) | [Check Here](0.%20MD/39.md) |  EASY  |
+| 40.  | 1251        |                                    [Average Selling Price](https://leetcode.com/problems/average-selling-price/)                                    | [Check Here](./40.sql) | [Check Here](0.%20MD/40.md) |  EASY  |
