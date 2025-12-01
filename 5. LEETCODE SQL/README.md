@@ -44,3 +44,4 @@
 | 40.  | 1251        |                                    [Average Selling Price](https://leetcode.com/problems/average-selling-price/)                                    | [Check Here](./40.sql) | [Check Here](0.%20MD/40.md) |  EASY  |
 | 41.  | 1407        |                                           [Top Travellers](https://leetcode.com/problems/top-travellers/)                                           | [Check Here](./41.sql) | [Check Here](0.%20MD/41.md) |  EASY  |
 | 42.  | 185         |                            [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                            | [Check Here](./42.sql) | [Check Here](0.%20MD/42.md) |  HARD  |
+| 43.  | 1158        |                                        [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                        | [Check Here](./43.sql) | [Check Here](0.%20MD/43.md) | MEDIUM |
