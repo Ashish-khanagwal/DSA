@@ -46,3 +46,4 @@
 | 42.  | 185         |                            [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)                            | [Check Here](./42.sql) | [Check Here](0.%20MD/42.md) |  HARD  |
 | 43.  | 1158        |                                        [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                        | [Check Here](./43.sql) | [Check Here](0.%20MD/43.md) | MEDIUM |
 | 44.  | 1164        |                            [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/)                            | [Check Here](./44.sql) | [Check Here](0.%20MD/44.md) | MEDIUM |
+| 45.  | 1174        |                               [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)                               | [Check Here](./45.sql) | [Check Here](0.%20MD/45.md) | MEDIUM |
