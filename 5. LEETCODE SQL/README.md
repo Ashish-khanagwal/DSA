@@ -49,3 +49,4 @@
 | 45.  | 1174        |                               [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/)                               | [Check Here](./45.sql) | [Check Here](0.%20MD/45.md) | MEDIUM |
 | 46.  | 1193        |                                   [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)                                   | [Check Here](./46.sql) | [Check Here](0.%20MD/46.md) | MEDIUM |
 | 47.  | 1280        |                                [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)                                | [Check Here](./47.sql) | [Check Here](0.%20MD/47.md) |  EASY  |
+| 48.  | 1321        |                                        [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)                                        | [Check Here](./48.sql) | [Check Here](0.%20MD/48.md) | MEDIUM |
