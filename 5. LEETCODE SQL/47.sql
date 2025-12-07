@@ -1,7 +1,7 @@
 /*
-PROBLEM 1280 -> Students and Examinations
+1280. Students and Examinations
 
-PROBLEM LINK -> https://leetcode.com/problems/monthly-transactions-i/
+PROBLEM LINK -> https://leetcode.com/problems/students-and-examinations/
 
 Table: Students
 

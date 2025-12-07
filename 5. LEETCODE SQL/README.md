@@ -50,3 +50,4 @@
 | 46.  | 1193        |                                   [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/)                                   | [Check Here](./46.sql) | [Check Here](0.%20MD/46.md) | MEDIUM |
 | 47.  | 1280        |                                [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)                                | [Check Here](./47.sql) | [Check Here](0.%20MD/47.md) |  EASY  |
 | 48.  | 1321        |                                        [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)                                        | [Check Here](./48.sql) | [Check Here](0.%20MD/48.md) | MEDIUM |
+| 49.  | 1484        |                          [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                          | [Check Here](./49.sql) | [Check Here](0.%20MD/49.md) |  EASY  |
