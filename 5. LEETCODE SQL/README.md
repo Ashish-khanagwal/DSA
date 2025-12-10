@@ -52,3 +52,4 @@
 | 48.  | 1321        |                                        [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/)                                        | [Check Here](./48.sql) | [Check Here](0.%20MD/48.md) | MEDIUM |
 | 49.  | 1484        |                          [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                          | [Check Here](./49.sql) | [Check Here](0.%20MD/49.md) |  EASY  |
 | 50.  | 1517        |                            [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)                            | [Check Here](./50.sql) | [Check Here](0.%20MD/50.md) |  EASY  |
+| 51.  | 1527        |                                [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                | [Check Here](./51.sql) | [Check Here](0.%20MD/51.md) |  EASY  |
