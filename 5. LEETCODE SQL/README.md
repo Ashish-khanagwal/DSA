@@ -53,3 +53,4 @@
 | 49.  | 1484        |                          [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                          | [Check Here](./49.sql) | [Check Here](0.%20MD/49.md) |  EASY  |
 | 50.  | 1517        |                            [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)                            | [Check Here](./50.sql) | [Check Here](0.%20MD/50.md) |  EASY  |
 | 51.  | 1527        |                                [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                | [Check Here](./51.sql) | [Check Here](0.%20MD/51.md) |  EASY  |
+| 52.  | 1581        |   [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)   | [Check Here](./52.sql) | [Check Here](0.%20MD/52.md) |  EASY  |
