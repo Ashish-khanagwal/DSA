@@ -55,3 +55,4 @@
 | 51.  | 1527        |                                [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                | [Check Here](./51.sql) | [Check Here](0.%20MD/51.md) |  EASY  |
 | 52.  | 1581        |   [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)   | [Check Here](./52.sql) | [Check Here](0.%20MD/52.md) |  EASY  |
 | 53.  | 1587        |                                  [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)                                  | [Check Here](./53.sql) | [Check Here](0.%20MD/53.md) |  EASY  |
+| 54.  | 1633        |                   [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)                   | [Check Here](./54.sql) | [Check Here](0.%20MD/54.md) |  EASY  |
