@@ -56,3 +56,4 @@
 | 52.  | 1581        |   [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)   | [Check Here](./52.sql) | [Check Here](0.%20MD/52.md) |  EASY  |
 | 53.  | 1587        |                                  [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)                                  | [Check Here](./53.sql) | [Check Here](0.%20MD/53.md) |  EASY  |
 | 54.  | 1633        |                   [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)                   | [Check Here](./54.sql) | [Check Here](0.%20MD/54.md) |  EASY  |
+| 55.  | 1683        |                                           [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                           | [Check Here](./55.sql) | [Check Here](0.%20MD/55.md) |  EASY  |
