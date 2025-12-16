@@ -58,3 +58,4 @@
 | 54.  | 1633        |                   [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)                   | [Check Here](./54.sql) | [Check Here](0.%20MD/54.md) |  EASY  |
 | 55.  | 1683        |                                           [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)                                           | [Check Here](./55.sql) | [Check Here](0.%20MD/55.md) |  EASY  |
 | 56.  | 1667        |                                     [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                     | [Check Here](./56.sql) | [Check Here](0.%20MD/56.md) |  EASY  |
+| 57.  | 1729        |                                     [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                     | [Check Here](./57.sql) | [Check Here](0.%20MD/57.md) |  EASY  |
