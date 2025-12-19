@@ -61,3 +61,4 @@
 | 57.  | 1729        |                                     [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                     | [Check Here](./57.sql) | [Check Here](0.%20MD/57.md) |  EASY  |
 | 58.  | 1757        |                          [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                          | [Check Here](./58.sql) | [Check Here](0.%20MD/58.md) |  EASY  |
 | 59.  | 1795        |                                 [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                 | [Check Here](./59.sql) | [Check Here](0.%20MD/59.md) |  EASY  |
+| 60.  | 1890        |                                 [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                 | [Check Here](./60.sql) | [Check Here](0.%20MD/60.md) |  EASY  |
