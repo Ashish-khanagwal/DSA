@@ -64,3 +64,4 @@
 | 60.  | 1890        |                                 [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                 | [Check Here](./60.sql) | [Check Here](0.%20MD/60.md) |  EASY  |
 | 61.  | 1873        |                                  [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                  | [Check Here](./61.sql) | [Check Here](0.%20MD/61.md) |  EASY  |
 | 62.  | 1965        |                       [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                       | [Check Here](./62.sql) | [Check Here](0.%20MD/62.md) |  EASY  |
+| 63.  | 2356        |         [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)         | [Check Here](./63.sql) | [Check Here](0.%20MD/63.md) |  EASY  |
