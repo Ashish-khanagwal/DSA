@@ -67,3 +67,4 @@
 | 63.  | 2356        |         [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)         | [Check Here](./63.sql) | [Check Here](0.%20MD/63.md) |  EASY  |
 | 64.  | 1978        |                 [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/)                 | [Check Here](./64.sql) | [Check Here](0.%20MD/64.md) |  EASY  |
 | 65.  | 3436        |                                        [Find Valid Emails](https://leetcode.com/problems/find-valid-emails/)                                        | [Check Here](./65.sql) | [Check Here](0.%20MD/65.md) |  EASY  |
+| 66.  | 3465        |                  [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/)                  | [Check Here](./66.sql) | [Check Here](0.%20MD/66.md) |  EASY  |
