@@ -70,3 +70,4 @@
 | 66.  | 3465        |                  [Find Products with Valid Serial Numbers](https://leetcode.com/problems/find-products-with-valid-serial-numbers/)                  | [Check Here](./66.sql) | [Check Here](0.%20MD/66.md) |  EASY  |
 | 67.  | 3570        |                      [Find Books with No Available Copies](https://leetcode.com/problems/find-books-with-no-available-copies/)                      | [Check Here](./67.sql) | [Check Here](0.%20MD/67.md) |  EASY  |
 | 68.  | 1179        |                                [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)                                | [Check Here](./68.sql) | [Check Here](0.%20MD/68.md) |  EASY  |
+| 69.  | 1341        |                                             [Movie Rating](https://leetcode.com/problems/movie-rating/)                                             | [Check Here](./69.sql) | [Check Here](0.%20MD/69.md) | MEDIUM |
