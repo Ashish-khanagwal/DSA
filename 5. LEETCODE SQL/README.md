@@ -73,3 +73,4 @@
 | 69.  | 1341        |                                             [Movie Rating](https://leetcode.com/problems/movie-rating/)                                             | [Check Here](./69.sql) | [Check Here](0.%20MD/69.md) | MEDIUM |
 | 70.  | 1211        |                           [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/)                           | [Check Here](./70.sql) | [Check Here](0.%20MD/70.md) |  EASY  |
 | 71.  | 1204        |                            [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)                            | [Check Here](./71.sql) | [Check Here](0.%20MD/71.md) | MEDIUM |
+| 72.  | 1393        |                                        [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                         | [Check Here](./72.sql) | [Check Here](0.%20MD/72.md) | MEDIUM |
