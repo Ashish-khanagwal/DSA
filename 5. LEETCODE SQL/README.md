@@ -75,3 +75,4 @@
 | 71.  | 1204        |                            [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)                            | [Check Here](./71.sql) | [Check Here](0.%20MD/71.md) | MEDIUM |
 | 72.  | 1393        |                                        [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                         | [Check Here](./72.sql) | [Check Here](0.%20MD/72.md) | MEDIUM |
 | 73.  | 1661        |                      [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)                      | [Check Here](./73.sql) | [Check Here](0.%20MD/73.md) |  EASY  |
+| 74.  | 3421        |                               [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/)                               | [Check Here](./74.sql) | [Check Here](0.%20MD/74.md) | MEDIUM |
