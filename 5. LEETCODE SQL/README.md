@@ -76,3 +76,4 @@
 | 72.  | 1393        |                                        [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                         | [Check Here](./72.sql) | [Check Here](0.%20MD/72.md) | MEDIUM |
 | 73.  | 1661        |                      [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)                      | [Check Here](./73.sql) | [Check Here](0.%20MD/73.md) |  EASY  |
 | 74.  | 3421        |                               [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/)                               | [Check Here](./74.sql) | [Check Here](0.%20MD/74.md) | MEDIUM |
+| 75.  | 3475        |                                 [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/)                                  | [Check Here](./75.sql) | [Check Here](0.%20MD/75.md) | MEDIUM |
