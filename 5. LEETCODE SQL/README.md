@@ -77,3 +77,4 @@
 | 73.  | 1661        |                      [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)                      | [Check Here](./73.sql) | [Check Here](0.%20MD/73.md) |  EASY  |
 | 74.  | 3421        |                               [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/)                               | [Check Here](./74.sql) | [Check Here](0.%20MD/74.md) | MEDIUM |
 | 75.  | 3475        |                                 [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/)                                  | [Check Here](./75.sql) | [Check Here](0.%20MD/75.md) | MEDIUM |
+| 76.  | 3497        |                         [Analyze Subscription Conversion ](https://leetcode.com/problems/analyze-subscription-conversion/)                          | [Check Here](./76.sql) | [Check Here](0.%20MD/76.md) | MEDIUM |
