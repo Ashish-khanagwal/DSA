@@ -78,3 +78,4 @@
 | 74.  | 3421        |                               [Find Students Who Improved](https://leetcode.com/problems/find-students-who-improved/)                               | [Check Here](./74.sql) | [Check Here](0.%20MD/74.md) | MEDIUM |
 | 75.  | 3475        |                                 [DNA Pattern Recognition ](https://leetcode.com/problems/dna-pattern-recognition/)                                  | [Check Here](./75.sql) | [Check Here](0.%20MD/75.md) | MEDIUM |
 | 76.  | 3497        |                         [Analyze Subscription Conversion ](https://leetcode.com/problems/analyze-subscription-conversion/)                          | [Check Here](./76.sql) | [Check Here](0.%20MD/76.md) | MEDIUM |
+| 77.  | 3793        |                         [Find Users with High Token Usage](https://leetcode.com/problems/find-users-with-high-token-usage/)                         | [Check Here](./77.sql) | [Check Here](0.%20MD/77.md) |  EASY  |
