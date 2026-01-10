@@ -83,3 +83,4 @@
 | 79.  | 3626        |                     [Find Stores with Inventory Imbalance](https://leetcode.com/problems/find-stores-with-inventory-imbalance/)                     | [Check Here](./79.sql) | [Check Here](0.%20MD/79.md) | MEDIUM |
 | 80.  | 3705        |                               [Find Golden Hour Customers](https://leetcode.com/problems/find-golden-hour-customers/)                               | [Check Here](./80.sql) | [Check Here](0.%20MD/80.md) | MEDIUM |
 | 81.  | 3564        |                                  [Seasonal Sales Analysis](https://leetcode.com/problems/seasonal-sales-analysis/)                                  | [Check Here](./81.sql) | [Check Here](0.%20MD/81.md) | MEDIUM |
+| 82.  | 3586        |                            [ Find COVID Recovery Patients](https://leetcode.com/problems/find-covid-recovery-patients/)                             | [Check Here](./82.sql) | [Check Here](0.%20MD/82.md) | MEDIUM |
