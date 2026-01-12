@@ -85,3 +85,4 @@
 | 81.  | 3564        |                                  [Seasonal Sales Analysis](https://leetcode.com/problems/seasonal-sales-analysis/)                                  | [Check Here](./81.sql) | [Check Here](0.%20MD/81.md) | MEDIUM |
 | 82.  | 3586        |                            [ Find COVID Recovery Patients](https://leetcode.com/problems/find-covid-recovery-patients/)                             | [Check Here](./82.sql) | [Check Here](0.%20MD/82.md) | MEDIUM |
 | 83.  | 3580        |                    [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/)                    | [Check Here](./83.sql) | [Check Here](0.%20MD/83.md) | MEDIUM |
+| 84.  | 3642        |                       [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/)                       | [Check Here](./84.sql) | [Check Here](0.%20MD/84.md) |  EASY  |
