@@ -87,3 +87,4 @@
 | 83.  | 3580        |                    [Find Consistently Improving Employees](https://leetcode.com/problems/find-consistently-improving-employees/)                    | [Check Here](./83.sql) | [Check Here](0.%20MD/83.md) | MEDIUM |
 | 84.  | 3642        |                       [Find Books with Polarized Opinions](https://leetcode.com/problems/find-books-with-polarized-opinions/)                       | [Check Here](./84.sql) | [Check Here](0.%20MD/84.md) |  EASY  |
 | 85.  | 3716        |                                [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/)                                | [Check Here](./85.sql) | [Check Here](0.%20MD/85.md) | MEDIUM |
+| 86.  | 3220        |                                [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/)                                | [Check Here](./86.sql) | [Check Here](0.%20MD/86.md) | MEDIUM |
