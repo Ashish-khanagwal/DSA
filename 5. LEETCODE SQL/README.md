@@ -89,3 +89,4 @@
 | 85.  | 3716        |                                [Find Churn Risk Customers](https://leetcode.com/problems/find-churn-risk-customers/)                                | [Check Here](./85.sql) | [Check Here](0.%20MD/85.md) | MEDIUM |
 | 86.  | 3220        |                                [Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/)                                | [Check Here](./86.sql) | [Check Here](0.%20MD/86.md) | MEDIUM |
 | 87.  | 1693        |                                 [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)                                 | [Check Here](./87.sql) | [Check Here](0.%20MD/87.md) |  EASY  |
+| 88.  | 601         |                                 [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)                                 | [Check Here](./88.sql) | [Check Here](0.%20MD/88.md) |  HARD  |
