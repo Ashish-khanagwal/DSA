@@ -91,3 +91,4 @@
 | 87.  | 1693        |                                 [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)                                 | [Check Here](./87.sql) | [Check Here](0.%20MD/87.md) |  EASY  |
 | 88.  | 601         |                                 [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)                                 | [Check Here](./88.sql) | [Check Here](0.%20MD/88.md) |  HARD  |
 | 89.  | 1731        |    [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)    | [Check Here](./89.sql) | [Check Here](0.%20MD/89.md) |  EASY  |
+| 90.  | 1741        |                   [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                   | [Check Here](./90.sql) | [Check Here](0.%20MD/90.md) |  EASY  |
