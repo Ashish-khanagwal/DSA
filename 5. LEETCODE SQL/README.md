@@ -93,3 +93,4 @@
 | 89.  | 1731        |    [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)    | [Check Here](./89.sql) | [Check Here](0.%20MD/89.md) |  EASY  |
 | 90.  | 1741        |                   [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                   | [Check Here](./90.sql) | [Check Here](0.%20MD/90.md) |  EASY  |
 | 91.  | 1789        |                     [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/)                     | [Check Here](./91.sql) | [Check Here](0.%20MD/91.md) |  EASY  |
+| 92.  | 1907        |                                  [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)                                  | [Check Here](./92.sql) | [Check Here](0.%20MD/92.md) | MEDIUM |
