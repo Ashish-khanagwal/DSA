@@ -94,3 +94,4 @@
 | 90.  | 1741        |                   [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                   | [Check Here](./90.sql) | [Check Here](0.%20MD/90.md) |  EASY  |
 | 91.  | 1789        |                     [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/)                     | [Check Here](./91.sql) | [Check Here](0.%20MD/91.md) |  EASY  |
 | 92.  | 1907        |                                  [Count Salary Categories](https://leetcode.com/problems/count-salary-categories/)                                  | [Check Here](./92.sql) | [Check Here](0.%20MD/92.md) | MEDIUM |
+| 93.  | 1934        |                                        [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)                                        | [Check Here](./93.sql) | [Check Here](0.%20MD/93.md) | MEDIUM |
